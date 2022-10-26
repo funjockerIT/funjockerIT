@@ -1,42 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=funjockerIT)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=funjockerIT&show_icons=true&theme=dracula)
-.
-┈┈┈╳▔▔▔▔▔▔▔▔▔╳
-┈┈╳┈┈┈┈┈┈┈┈┈┈┈╳
-┈╱┈┈┈┈┈┈┈┈┈┈┈┈┈╲
-┈▏┈┈┈┈┈┈┈┈┈┈┈┈┈▕
-┈▏┈┈┈┈┈   ┈┈┈┈┈┈┈▕
-┈▏┈┈┈┈┈┈┈┈┈┈┈┈┈▕
-┈╲╱▔▔▔╲╱┈╲╱▔▔▔╲╱
-┈╱┈┈┈┈┈╲┈╱┈┈┈┈┈╲
-┈▏┈┈ ▇┈  ▕┈▏┈┈▇┈┈▕
-╱▔╲▂▂▂╱▏┈▕╲▂▂▂╱▔╲
-▏▏┈╱▔▔▔╲▂╱▔▔▔╲┈▕▕
-▏▏╱┈┈┈┈┈┈┈┈┈┈┈╲▕▕
-╲╱┈┈┈┈┈┈┈┈┈┈┈┈┈╲╱
-▕┈┈┈┈┈┈┈┈┈┈┈┈┈┈▕
-▕┈▂▂▂▂▂▂▂▂▂▂▂▂▂▕
 
-
-.
-   ╳▔▔▔▔▔▔▔▔▔╳
-  ╳           ╳
- ╱             ╲
- ▏             ▕
- ▏               ▕
- ▏             ▕
- ╲╱▔▔▔╲╱ ╲╱▔▔▔╲╱
- ╱     ╲ ╱     ╲
- ▏   ▇   ▕ ▏  ▇  ▕
-╱▔╲▂▂▂╱▏ ▕╲▂▂▂╱▔╲
-▏▏ ╱▔▔▔╲▂╱▔▔▔╲ ▕▕
-▏▏╱           ╲▕▕
-╲╱             ╲╱
-▕              ▕
-▕ ▂▂▂▂▂▂▂▂▂▂▂▂▂▕
-
-
-http://text-image.ru/news/news/simpsony_the_simpsons/1-0-87
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=funjockerIT&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=funjockerIT&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=funjockerIT&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=funjockerIT&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=funjockerIT&theme=solarized_dark)
 <!--
 **funjockerIT/funjockerIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
