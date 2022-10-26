@@ -1,9 +1,4 @@
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=funjockerIT)](https://github.com/ryo-ma/github-profile-trophy)
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Jocker</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, programming genius</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=6000&pause=1000&color=0E0D0D&center=true&vCenter=true&width=1000&height=200&lines=Typical+student+from+Russia+-+I+love+vodka" alt="Typing SVG" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=funjockerIT&theme=monokai&border_radius=10&locale=ru)](https://git.io/streak-stats)
 <!--
 **funjockerIT/funjockerIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
