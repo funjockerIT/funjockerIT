@@ -1,9 +1,9 @@
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=funjockerIT&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=funjockerIT&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=funjockerIT&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=funjockerIT&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=funjockerIT&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=funjockerIT&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=funjockerIT&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=funjockerIT&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=funjockerIT&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=funjockerIT&theme=dracula)
 <!--
 **funjockerIT/funjockerIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
