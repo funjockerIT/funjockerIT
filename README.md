@@ -1,5 +1,6 @@
-### Hi there 👋
-### ⚡ Fun fact - "I thought my life was a tragedy, but I realized it was a comedy."
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Jocker</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, programming genius</h3>
 <!--
 **funjockerIT/funjockerIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
